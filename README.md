@@ -1,4 +1,4 @@
-# [reactive.Js](https://reactivejs.vercel.app) | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE) |  [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) | [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sambhavsaxena/reactive)
+# [Reactive.Js](https://reactivejs.vercel.app) | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE) |  [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) | [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sambhavsaxena/reactive)
 
 Reactive Js is a static music player written in React. SCSS preprocessors have been deeply implemented in this player.
 The number of songs available for playing is limited due to time boundation I had to create a REST API for serving music links. 
@@ -38,4 +38,4 @@ Read the React's [contributing guide](https://reactjs.org/contributing/how-to-co
 To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/sambhavsaxena/reactive/labels/good%20first%20issue) that contain bugs which have a relatively limited scope. This is a great place to get started <3.
 
 ### License
-Flexmail is [MIT licensed](./LICENSE).
+ReactiveJS is [MIT licensed](./LICENSE).
